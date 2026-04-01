@@ -47,7 +47,7 @@ It helps in improving decision-making using data-driven insights.
 
 ##  Dashboard Preview
 
-###![img](hospitalDashboard.png)
+![img](hospitalDashboard.png)
 
 ---
 ## Key Insights
