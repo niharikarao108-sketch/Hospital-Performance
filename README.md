@@ -69,7 +69,7 @@ It helps in improving decision-making using data-driven insights.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Real-time hospital data integration  
 - Predictive analytics  
