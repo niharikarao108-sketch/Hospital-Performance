@@ -48,16 +48,16 @@ It helps in improving decision-making using data-driven insights.
 ## 📷 Dashboard Preview
 
 ### Operations Dashboard
-![img](Screenshot 2026-03-31 225230.png)
+![img](operation.png)
 
 ### Financial Dashboard
-![img](Screenshot 2026-03-31 225258.png)
+![img](finance.png)
 
 ### Quality Dashboard
-![img](Screenshot 2026-03-31 225318.png)
+![img](Quality.png)
 
 ### Insurance Dashboard
-![img](Screenshot 2026-03-31 225349.png)
+![img](Quality.png)
 
 ---
 ## Key Insights
