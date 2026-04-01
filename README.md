@@ -57,7 +57,7 @@ It helps in improving decision-making using data-driven insights.
 ![img](Quality.png)
 
 ### Insurance Dashboard
-![img](Quality.png)
+![img](Insurance.png)
 
 ---
 ## Key Insights
